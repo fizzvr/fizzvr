@@ -7,13 +7,13 @@
   <a href="http://vladimirdev.me"><img alt="Website" src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg"></a>
 </p>
 
-💚 I love web development related to entrepreneurship. I am currently developing a system for a _SAMSUNG_ brand partner located in Latin America, I have also worked on projects on web and mobile applications and development of custom fronts and apis developments with node.js
+💚 I love web development related to entrepreneurship. I have also worked on projects on web and mobile applications and development of custom fronts and apis developments with node.js
 
 🌱 I love **NodeJS**, I love the clean code philosophy, the bdd methodology, guided test programming, and I dream of clean and easy to maintain projects. Unit tests are necessary to define the quality of the project and avoid errors, well-made software is expensive. There is nothing I like more than finding the best solution to a problem.
 
-🤔 I am also looking for a **serious development team** to help me grow, I love challenges.
+😎 I love challenges, currently learning [NEXTJS](https://vercel.com/docs/serverless-functions/introduction) & [Tailwind CSS](https://tailwindcss.com/docs/guides/nextjs)
 
-📫 How to reach me: [Vladimir Rodríguez](http://www.vladimirdev.me/) or via email.
+📫 How to reach me: Via email or visit my main page to see awesome portafolio [Vladimir Rodríguez](http://www.vladimirdev.me/).
 
 <p>Here are my best skills:</p>
 
