@@ -1,5 +1,5 @@
 <p align="center">
-	<h3 align="center">Hi all!!! 👋 My name is Vladimir Rodríguez (fizzvr) ❄️</h3>
+	<h3 align="center">Vladimir Rodríguez (fizzvr) ❄️</h3>
 </p>
 
 <p align="center">
@@ -33,5 +33,3 @@
 </p>
 
 *Whoever has the courage and perseverance to spend their lives searching the darkness will also be the first to recognize the dawn.*
-
-Regards,
