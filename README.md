@@ -2,10 +2,8 @@
 	<h2 align="center">⚡ Hola, soy Vladimir Rodríguez ⚡ </h2>
 </p>
 
-
-
 <p align="center">
-	<h3 align="center">💻 **Full Stack Developer** | 🔗 **API Integrations** | 🛠️ **IT Support** | 🤖 **Process Automation**   </h3>
+	<h3 align="center">💻 Full Stack Developer | 🔗 API Integrations | 🛠️ IT Support | 🤖 Process Automation</h3>
 </p>
 
 <p align="center">
@@ -20,7 +18,8 @@
 - 🎨 **Frontends personalizados** y **backends con Node.js**.  
 - 🛰️ **Soporte TI**: servidores, redes y equipos.  
 - ⚙️ **Automatización de procesos** de negocio.  
-- 📊 **Gestión de proyectos digitales** de punta a punta.  
+- 📊 **Gestión de proyectos digitales** de punta a punta.
+  </br>
 - 🏥 **Sector asegurador & medicina prepagada**:  
   - 🔑 **Gestión de pólizas y afiliaciones**.  
   - 💸 **Reembolsos, reclamos médicos y autorizaciones**.  
