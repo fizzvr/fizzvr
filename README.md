@@ -1,5 +1,5 @@
 <p align="center">
-	<h3 align="center">Vladimir Rodríguez (fizzvr) ❄️</h3>
+	<h3 align="center">#👋 ¡Hola! Soy Vladimir Rodríguez</h3>
 </p>
 
 <p align="center">
@@ -7,7 +7,6 @@
   <a href="http://vladimirdev.me"><img alt="Website" src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg"></a>
 </p>
 
-# 👋 ¡Hola! Soy Vladimir Rodríguez
 
 💻 **Full Stack Developer** | **API Integrations** | **IT Support** | **Process Automation**  
 
@@ -48,12 +47,12 @@ Soy un desarrollador Full Stack con experiencia en:
 - 💼 [LinkedIn](https://www.linkedin.com/in/fizzvr)  
 
 
-<p>Stats:/p>
+<p>[Stats:](https://img.shields.io/badge/Hacking%20the%20message-038C73)</p>
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=fizzvr&theme=merko&hide_border=true&count_private=true" alt="fizzvr's GitHub Stats" />
 
-<img alt="material-ui" src="https://img.shields.io/badge/Material--UI-latest-yellowgreen" data-canonical-src="https://img.shields.io/badge/Material--UI-done-yellowgreen" style="max-width:100%;"> <img alt="firebase" src="https://img.shields.io/badge/Firebase-latest-yellow" data-canonical-src="https://img.shields.io/badge/Firebase-latest-yellow" style="max-width:100%;"> <img alt="axios" src="https://img.shields.io/badge/Axios-latest-green" data-canonical-src="https://img.shields.io/badge/Axios-latest-green" style="max-width:100%;"> <img alt="express" src="https://img.shields.io/badge/Express-latest-blue" data-canonical-src="https://img.shields.io/badge/Express-latest-blue" style="max-width:100%;"></br>
+
 
 </p>
 
