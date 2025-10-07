@@ -1,5 +1,11 @@
 <p align="center">
-	<h3 align="center">#👋 ¡Hola! Soy Vladimir Rodríguez</h3>
+	<h2 align="center">⚡ Hola, soy Vladimir Rodríguez ⚡ </h2>
+</p>
+
+
+
+<p align="center">
+	<h3 align="center">💻 **Full Stack Developer** | 🔗 **API Integrations** | 🛠️ **IT Support** | 🤖 **Process Automation**   </h3>
 </p>
 
 <p align="center">
@@ -7,47 +13,42 @@
   <a href="http://vladimirdev.me"><img alt="Website" src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg"></a>
 </p>
 
+🚀 Desarrollador apasionado por la tecnología, con experiencia en:  
 
-💻 **Full Stack Developer** | **API Integrations** | **IT Support** | **Process Automation**  
+- 🖥️ Aplicaciones **web y móviles**.  
+- 🔌 **Integración de APIs** internas y externas.  
+- 🎨 **Frontends personalizados** y **backends con Node.js**.  
+- 🛰️ **Soporte TI**: servidores, redes y equipos.  
+- ⚙️ **Automatización de procesos** de negocio.  
+- 📊 **Gestión de proyectos digitales** de punta a punta.  
+- 🏥 **Sector asegurador & medicina prepagada**:  
+  - 🔑 **Gestión de pólizas y afiliaciones**.  
+  - 💸 **Reembolsos, reclamos médicos y autorizaciones**.  
+  - 🏥 Integración con **prestadores de salud**.  
+  - 📑 **Facturación y conciliación** con proveedores.  
+  - 🔒 **Seguridad de datos sensibles** & cumplimiento normativo.  
 
-Soy un desarrollador Full Stack con experiencia en:  
-
-- Desarrollo de **aplicaciones web y móviles**.  
-- **Integración de APIs internas y externas**.  
-- Construcción de **frontends personalizados** y **backends con Node.js**.  
-- **Soporte TI**, mantenimiento de servidores, redes y equipos.  
-- **Automatización de procesos** y optimización de flujos de negocio.  
-- **Gestión de proyectos digitales**, desde el análisis de requerimientos hasta la puesta en producción.  
-- Experiencia en el **sector asegurador y medicina prepagada**, participando en proyectos relacionados con:  
-  - Administración de **pólizas y afiliaciones**.  
-  - Procesos de **reembolsos, reclamos médicos y autorizaciones**.  
-  - Integración de sistemas con **prestadores de salud** y entidades externas.  
-  - **Facturación y conciliación** con proveedores.  
-  - Implementación de prácticas de **seguridad de datos personales** y **cumplimiento normativo**.  
-
-🌱 Me apasiona **Node.js**, las buenas prácticas de desarrollo (**Clean Code**), la filosofía **BDD**, y el uso de **unit testing** como base para asegurar calidad y escalabilidad. Creo firmemente que un software bien hecho es una inversión que evita errores y asegura mantenibilidad.  
-
-🚀 A lo largo de mi experiencia, he participado en proyectos de integración, migración de sistemas y modernización de plataformas, siempre con el enfoque en entregar **valor real al usuario** a través de la tecnología.  
+🌱 Apasionado por **Node.js**, 🧩 **Clean Code**, 🧪 **BDD/TDD**, y el desarrollo de software **escalable y mantenible**.  
+Creo que un **código limpio ≠ barato**, pero siempre es una inversión que evita errores.  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, Next.js, Material-UI, TailwindCSS  
-- **Backend:** Node.js, Express.js, REST APIs  
-- **Databases:** Oracle, MongoDB, MySQL, PostgreSQL  
-- **Dev Tools:** Git, Docker, Linux Servers, Nginx  
-- **Metodologías:** Agile, BDD, TDD  
+- 🎨 **Frontend:** React, Next.js, Material-UI, TailwindCSS  
+- ⚡ **Backend:** Node.js, Express.js, REST APIs  
+- 🗄️ **Databases:** Oracle, MongoDB, MySQL, PostgreSQL  
+- 🐧 **DevOps & Tools:** Git, Docker, Linux Servers, Nginx  
+- 📐 **Metodologías:** Agile, BDD, TDD  
 
 ---
 
-## 📫 Contacto
-- ✉️ [Email]  
-- 🌐 [Portafolio en línea]  
+## 📡 Contacto
+- 📧 [Email](fizzvr@gmail.com)  
+- 🌐 [Portafolio en línea]
 - 💼 [LinkedIn](https://www.linkedin.com/in/fizzvr)  
 
-
-<p>[Stats:](https://img.shields.io/badge/Hacking%20the%20message-038C73)</p>
+<p>[Stats:]</p>
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=fizzvr&theme=merko&hide_border=true&count_private=true" alt="fizzvr's GitHub Stats" />
