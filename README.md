@@ -27,6 +27,8 @@
   - 📑 **Facturación y conciliación** con proveedores.  
   - 🔒 **Seguridad de datos sensibles** & cumplimiento normativo.  
 
+👷‍♂️ Owner de infraestructura y cumplimiento ISO 9001. Enfocado en la implementación de sistemas confiables, documentación técnica, mejora de procesos y auditorías internas de calidad orientadas a la eficiencia operativa.
+
 🌱 Apasionado por **Node.js**, 🧩 **Clean Code**, 🧪 **BDD/TDD**, y el desarrollo de software **escalable y mantenible**.  
 Creo que un **código limpio ≠ barato**, pero siempre es una inversión que evita errores.  
 
